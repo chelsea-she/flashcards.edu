@@ -335,7 +335,8 @@ export default function Home() {
                 backgroundColor:'#234257',
                 color:'white',
                 '&:hover': {
-                backgroundColor: '#3A6F92', // Custom hover background color
+                backgroundColor: '#3A6F92',
+                fontFamily: 'Moderustic, sans-serif'  
               },
               }}>
               choose basic
@@ -349,7 +350,8 @@ export default function Home() {
               backgroundColor:'#234257',
               color:'white',
               '&:hover': {
-              backgroundColor: '#3A6F92', // Custom hover background color
+              backgroundColor: '#3A6F92',
+              fontFamily: 'Moderustic, sans-serif' 
             },
             }}>
             choose basic
